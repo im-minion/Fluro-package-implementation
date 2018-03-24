@@ -1,8 +1,3 @@
-# router_fluro
+## Fluro-implementation (https://github.com/goposse/fluro)
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![Demo](https://github.com/im-minion/Fluro-package-implementation/blob/master/demo.gif)
